@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(75, 75, 75);
+  height: 1000px;
+}
+
+div {
+  width: 1100px; height: 575px;
+  margin: 20px auto 0 auto;
+}
