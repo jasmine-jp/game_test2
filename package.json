@@ -9,8 +9,7 @@
     "tslint": "tslint -p .",
     "typedoc": "typedoc -p .",
     "webpack": "webpack",
-    "server": "webpack-dev-server",
-    "heroku-postbuild": "npm run server"
+    "server": "webpack-dev-server"
   },
   "author": "",
   "license": "MIT",
