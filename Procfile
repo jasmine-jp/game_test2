@@ -1,1 +1,1 @@
-web:
+web: www/index.html
