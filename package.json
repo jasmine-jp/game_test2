@@ -13,7 +13,7 @@
   },
   "author": "",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "@types/pixi.js": "^5.0.0",
     "ts-loader": "^8.0.3",
     "tslint": "^6.1.3",
