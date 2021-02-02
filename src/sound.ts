@@ -10,7 +10,8 @@ export default class Sound {
   ];
 
   public static effect: PIXI_SOUND.Sound = PIXI_SOUND.Sound.from({
-    url: 'sounds/effect.mp3'
+    url: 'sounds/effect.mp3',
+    preload: true
   });
 
   public static bgm: PIXI_SOUND.Sound;
