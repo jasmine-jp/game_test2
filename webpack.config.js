@@ -23,7 +23,7 @@ module.exports = (env, argv) => {
     },
     devServer: {
       contentBase: 'www',
-      port: process.env.PORT || 5000
+      port: 3000
     },
     resolve: {
       extensions: ['.ts', '.js'],
